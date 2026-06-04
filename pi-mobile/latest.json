@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 13,
-  "versionName": "0.9.4",
-  "releaseNotes": "新增电脑端 Desktop Bridge 最小闭环：支持主机检测、项目列表、任务提交、SSE/轮询事件同步，并补充启动脚本和使用说明。",
+  "versionCode": 14,
+  "versionName": "0.9.5",
+  "releaseNotes": "删除更新源配置入口，应用内检查更新固定使用 Gitee latest.json，主机设置页只保留电脑端地址和访问令牌配置。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 53675,
-  "sha256": "28ac304107b26a5f776b65f8742e3bbd2b04f93f74953c057d1b469e3dcf618d",
+  "sha256": "fdd4d36fb7ad0670626f9735d1bbc664e7dde0df90f55d61e18e40d59472f489",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

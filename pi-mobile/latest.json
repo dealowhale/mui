@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 15,
-  "versionName": "0.9.6",
-  "releaseNotes": "会话消息支持长按复制，复制内容为原始消息文本，便于把手机端报错或 pi 输出粘贴出来排查。",
+  "versionCode": 16,
+  "versionName": "0.10.0",
+  "releaseNotes": "新增公网 Relay demo：支持邮箱验证码登录、桌面绑定、桌面项目列表同步，并可通过 Relay 把手机端任务转发到电脑端 Bridge 执行。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 53675,
-  "sha256": "2b91776383855c3b10758326cc03edd47f59c45e032382ee567d3840aa09cde4",
+  "sha256": "e86ef3392ab56efb4b661dbc6339676b9c51d8ad888e92e6f9cbf1a92799da82",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

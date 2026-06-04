@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 6,
-  "versionName": "0.6.0",
-  "releaseNotes": "新增设置页面与版本号显示，并固定后续安装包签名。",
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "releaseNotes": "重构主界面为底部菜单布局，拆分概览、会话、设备与设置分区。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 49579,
-  "sha256": "7214d031196ea6ee4b5ece62d309a6a37abae8cbe0d52e6edb9c7eaeb049a9dc",
+  "sha256": "830cfc1ee9e9b4448f1104b1204f169efcc3e4799ec4d9c41747b59f0b0893d6",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

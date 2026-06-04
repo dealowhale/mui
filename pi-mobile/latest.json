@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 14,
-  "versionName": "0.9.5",
-  "releaseNotes": "删除更新源配置入口，应用内检查更新固定使用 Gitee latest.json，主机设置页只保留电脑端地址和访问令牌配置。",
+  "versionCode": 15,
+  "versionName": "0.9.6",
+  "releaseNotes": "会话消息支持长按复制，复制内容为原始消息文本，便于把手机端报错或 pi 输出粘贴出来排查。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 53675,
-  "sha256": "fdd4d36fb7ad0670626f9735d1bbc664e7dde0df90f55d61e18e40d59472f489",
+  "sha256": "2b91776383855c3b10758326cc03edd47f59c45e032382ee567d3840aa09cde4",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

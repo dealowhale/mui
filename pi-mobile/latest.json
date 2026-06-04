@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 9,
-  "versionName": "0.9.0",
-  "releaseNotes": "默认更新源切换为 Gitee Release 列表解析，下载链路优先使用 Release 附件，并保留 GitHub 回退与电脑端主机更新桥。",
+  "versionCode": 10,
+  "versionName": "0.9.1",
+  "releaseNotes": "默认更新源切换为兼容旧版的 Gitee latest.json，保留 Gitee Releases API 解析、GitHub 回退与电脑端主机更新桥。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 53675,
-  "sha256": "4c91ecfb4bcb29ac842981ff826b33ad88f6ce4d162f95e7a7d136bbecc14802",
+  "sha256": "1954c5a0dd323807e3042b3316586adc2cc43eff1a88ab17a3af4489bc68586a",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 10,
-  "versionName": "0.9.1",
-  "releaseNotes": "默认更新源切换为兼容旧版的 Gitee latest.json，保留 Gitee Releases API 解析、GitHub 回退与电脑端主机更新桥。",
+  "versionCode": 11,
+  "versionName": "0.9.2",
+  "releaseNotes": "参考 Codex 与 ChatGPT 移动端的任务控制体验，首页调整为任务台布局，突出新建线程、连接状态、任务队列与底部导航。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 53675,
-  "sha256": "1954c5a0dd323807e3042b3316586adc2cc43eff1a88ab17a3af4489bc68586a",
+  "sha256": "262ffac49e92a8b64eedfb11af2eb22fbc7312334f1cf9cbaedba2c414087a16",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

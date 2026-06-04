@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "releaseNotes": "默认更新源改为 Gitee 优先、GitHub 回退，并保留电脑端主机更新桥。发布脚本新增 GitHub 与 Gitee 双发布支持。",
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "releaseNotes": "默认更新源切换为 Gitee Release 列表解析，下载链路优先使用 Release 附件，并保留 GitHub 回退与电脑端主机更新桥。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 53675,
-  "sha256": "6a1c652c2ac530b60a748859db96b2dbe2bb45b3e96e1806376c915166f89f98",
+  "sha256": "4c91ecfb4bcb29ac842981ff826b33ad88f6ce4d162f95e7a7d136bbecc14802",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

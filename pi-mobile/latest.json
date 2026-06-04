@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "releaseNotes": "重构主界面为底部菜单布局，拆分概览、会话、设备与设置分区。",
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "releaseNotes": "默认更新源改为 Gitee 优先、GitHub 回退，并保留电脑端主机更新桥。发布脚本新增 GitHub 与 Gitee 双发布支持。",
   "fileName": "pi-mobile-demo-debug.apk",
-  "sizeBytes": 49579,
-  "sha256": "830cfc1ee9e9b4448f1104b1204f169efcc3e4799ec4d9c41747b59f0b0893d6",
+  "sizeBytes": 53675,
+  "sha256": "6a1c652c2ac530b60a748859db96b2dbe2bb45b3e96e1806376c915166f89f98",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

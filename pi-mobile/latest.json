@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "releaseNotes": "新增公网 relay 会话转发、桌面选择、账号登录和设备绑定。",
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "releaseNotes": "新增设置页面与版本号显示，并固定后续安装包签名。",
   "fileName": "pi-mobile-demo-debug.apk",
-  "sizeBytes": 45483,
-  "sha256": "6194eead1df3ff0b372f747f5a4a198e68ca2272f3ceaf3c1e8fcaeb40beb1dc",
+  "sizeBytes": 49579,
+  "sha256": "7214d031196ea6ee4b5ece62d309a6a37abae8cbe0d52e6edb9c7eaeb049a9dc",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }

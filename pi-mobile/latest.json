@@ -1,10 +1,10 @@
 {
   "available": true,
-  "versionCode": 12,
-  "versionName": "0.9.3",
-  "releaseNotes": "继续参考 Codex 与 ChatGPT 移动端 UI，调整为暖白背景、墨色主按钮、浅灰边框、低饱和状态色，并统一任务台、底部导航、线程卡片和聊天输入区样式。",
+  "versionCode": 13,
+  "versionName": "0.9.4",
+  "releaseNotes": "新增电脑端 Desktop Bridge 最小闭环：支持主机检测、项目列表、任务提交、SSE/轮询事件同步，并补充启动脚本和使用说明。",
   "fileName": "pi-mobile-demo-debug.apk",
   "sizeBytes": 53675,
-  "sha256": "26b5addfafec153211307227665b6181847bfb41a742808ceef5d8bb60b30da6",
+  "sha256": "28ac304107b26a5f776b65f8742e3bbd2b04f93f74953c057d1b469e3dcf618d",
   "downloadUrl": "pi-mobile-demo-debug.apk"
 }
